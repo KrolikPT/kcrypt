@@ -1,4 +1,4 @@
-Run this commands:
+Run these commands:
 
 sudo chmod 777 kcrypt
 
