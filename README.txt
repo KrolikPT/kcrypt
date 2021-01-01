@@ -1,7 +1,7 @@
 Run this commands:
 
-chmod 777 kcrypt
+sudo chmod 777 kcrypt
 
-cp kcrypt /usr/bin/kcrypt
+sudo cp kcrypt /usr/bin/kcrypt
 
 USE: kcrypt
